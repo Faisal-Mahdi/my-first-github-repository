@@ -7,7 +7,7 @@
 #header{
     background-color: darkcyan;
     text-align: center;
-    border: 20px solid black;
+    border: 30px solid black;
     border-radius: 30px;
 }
 
@@ -17,4 +17,17 @@
 
 #size{
     front-size: 15px;
+}
+
+#tycss{
+    background-color: chocolate;
+    border: 5px dotted black;
+    border-radius: 30px;
+}
+
+#fot{
+    background-color: darkcyan;
+    border: 20px solid black;
+    border-radius: 20px;
+    text-align: center;
 }
